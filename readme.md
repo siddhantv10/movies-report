@@ -5,7 +5,9 @@ IMDB data movies report using PowerBI.
 To download the .pbix file click [here](./movies-report.pbix)
 
 
-![Report Overview](/movies-report.png)
+<p align="center">
+  <img src="./movies-report" title="Report">
+</p>
 
 -------------------------------------------------------------
 ![](/movies-report-1.png)
