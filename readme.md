@@ -12,7 +12,6 @@ To download the .pbix file click [here](./movies-report.pbix)
 
 -------------------------------------------------------------
 
-![](/movies-report-1.png)
+![](/movies-report-2.png)
 
-
-To download the .pbix file click [here](./movies-report.pbix)
+------------------------------------------------------------
