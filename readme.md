@@ -6,7 +6,7 @@ To download the .pbix file click [here](./movies-report.pbix)
 
 
 <p align="center">
-  <img src="./movies-report.png" height = "3042" width = "5334" title="Report">
+  <img src="./movies-report.png" title="Report">
 </p>
 
 -------------------------------------------------------------
